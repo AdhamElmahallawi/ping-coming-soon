@@ -1,0 +1,23 @@
+DOM = Document Object Model.
+What is DOM? = Programming Interface for HTML, XHL.
+
+[1] - document.getElementById("");
+[2] - document.getElementsByTagName("") // using Index
+[3] - document.getElementsByClassName("")
+[4] - document.querySelectorAll("")
+
+* document.title
+* document.images
+* document.forms
+*document.body  //appendChild
+*document.links
+*documentanchors
+*innerHTML   // Get element Html
+*textContent // Get element text
+* Changing attributs // className id ---
+*getAttribute("Attribute name") , setAttribute("Attribute Name", "Attribute Value")
+* hasAttribute , removeAttribute 
+*classList.item {contain} $$$
+
+
+
